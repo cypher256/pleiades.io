@@ -1,5 +1,5 @@
 # Pleiades 誤訳トラッカー
-[Pleiades](http://mergedoc.osdn.jp/) による IntelliJ や Eclipse の翻訳や JetBrains 製品のオンラインヘルプ日本語サイト https://pleiades.io の誤訳や問題を管理します。pleiades.io の原文は jetbrains.com から自動的に取得しており、翻訳後の著作権も jetbrains.com にあります。
+[Pleiades](http://mergedoc.osdn.jp/) による IntelliJ や Eclipse などの IDE 製品翻訳や JetBrains 製品のオンラインヘルプ日本語サイト https://pleiades.io の誤訳や問題を管理します。pleiades.io の原文は jetbrains.com から自動的に取得しており、翻訳後の著作権も jetbrains.com にあります。
 
 ## 誤訳などの報告・要望
 [Issues](../../issues) から New Issue を作成してください。pleiades.io は仕組上、以下の制限があります。

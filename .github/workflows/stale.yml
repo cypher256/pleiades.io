@@ -21,12 +21,6 @@ jobs:
     - uses: actions/stale@v5
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: "この Issue はオープンされてから長期間活動がなかったため、no-issue-activity とマークされました。"
-        close-issue-message: "この Issue は no-issue-activity とマークされてから一定期間非アクティブであったため、クローズされました。"
-        stale-issue-label: 'no-issue-activity'
-        stale-pr-message: 'Stale pull request message'
-        stale-pr-label: 'no-pr-activity'
-        days-before-issue-stale: 90
-        days-before-issue-close: 14
-        days-before-pr-stale: -1
-        days-before-pr-close: -1
+        days-before-stale: -1
+        days-before-issue-close: 90
+        close-issue-message: "この Issue は 90 日間活動がなかったため、クローズされました。"

@@ -1,4 +1,4 @@
-# Pleiades 問題トラッカー
+# Pleiades 課題トラッカー
 
 [![Issues](https://img.shields.io/github/issues-search?query=repo%3Acypher256%2Fpleiades.io&style=for-the-badge&logo=github&label=Issues)](https://github.com/cypher256/pleiades.io/issues?q=)
 [![Buy Me a Coffee](https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=%E2%9D%A4&logo=coffeescript&color=orange&style=for-the-badge)](https://github.com/sponsors/cypher256)
